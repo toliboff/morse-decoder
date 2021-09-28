@@ -1,21 +1,44 @@
 # Decode a Morse code message
-> This is a program that translates Morse code into a readable sentence
 
-# Built with
+During your vacation at the seaside, time after time you find old bottles with parchment inside. Out of curiosity, you look into the next bottle and see that there is a message written in Morse code. Your curiosity grows even more - maybe you just found the lost treasure of the pirates! However, you are getting tired of decrypting messages manually. Fortunately, you can program in Ruby and you can help yourself by automating this process.
+
+## Built With
+
 - Ruby
 
-# Prerequisites
-To run this project you must to have ruby installed in your machine. If you don't have it follow the instructions [here](https://www.ruby-lang.org/en/documentation/installation/)
-# Setup
-Clone this repository 
+## Getting Started
 
-# Usage
-Run `ruby decoder.rb` command on terminal
-# Author
-:bust_in_silhouette: Tolibjon Tolibov
-- GitHub: [@toliboff](https://https://github.com/toliboff)
-- Twitter: [@tolib_tolibov](https://twitter.com/tolib_tolibov)
-- LinkedIn: [Tolibjon](https://linkedin.com/in/tolibjon-tolibov)
+To get a local copy up and running follow these simple example steps.
+
+### Prerequisites
+
+- [Ruby](https://www.ruby-lang.org/en/)
+
+### Setup
+
+- Make sure you have Ruby IRB installed on your computer
+- Clone or download this repo on your machine
+- Enter project directory
+
+### Run
+
+```rb
+irb decode.rb
+```
+
+## Authors
+
+👤 **Usman**
+
+- GitHub: [@usmansbk](https://github.com/usmansbk)
+- Twitter: [@usmansbk](https://twitter.com/usmansbk)
+- LinkedIn: [Usman Suleiman Babakolo](https://linkedin.com/in/usmansbk)
+
+👤 **Tolib**
+
+- GitHub: [@toliboff](https://github.com/toliboff)
+- Twitter: [@toliboff](https://twitter.com/toliboff)
+- LinkedIn: [Tolibjon Tolibov](https://linkedin.com/in/toliboff)
 
 ## 🤝 Contributing
 
@@ -29,5 +52,4 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-
+- Microverse
